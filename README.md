@@ -69,6 +69,6 @@ Este projeto está licenciado sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar! 🎶
 
 🙋‍♂️ Autor
-Feito com carinho por [Seu Nome Aqui].
+Feito com carinho por Dan
 
 🎵 Vamos organizar suas músicas como elas merecem! 🎶
